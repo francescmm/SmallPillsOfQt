@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/images/app_icon.png</file>
+        <file>ui/images/app_close.png</file>
+        <file>ui/images/app_rest.png</file>
+        <file>ui/images/app_max.png</file>
+        <file>ui/images/app_min.png</file>
+        <file>CustomWindow.css</file>
+    </qresource>
+</RCC>
