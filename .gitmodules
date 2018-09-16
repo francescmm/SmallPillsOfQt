@@ -1,0 +1,3 @@
+[submodule "ThreadedServer/QLogger"]
+	path = ThreadedServer/QLogger
+	url = https://github.com/francescmm/QLogger.git
